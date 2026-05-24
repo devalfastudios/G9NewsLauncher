@@ -1,26 +1,25 @@
 [
   {
-    "title": "Майбутній G9 Launcher v1.5: Що нового?",
-    "summary": "G9 Launcher v1.5 принесе підтримку модпаків, покращений AI GameBooster та нові теми оформлення. Слідкуйте за оновленнями!",
-    "date": "22.05.2026",
+    "title": "G9 Launcher v1.4: Що нового?",
+    "summary": "G9 Launcher отримав нові функції: Зміна стилю на MetroUI, зміна порядку кнопок на лівій боковій панелі, більше варіантів зміни шрифту, можливість показувати активність у Discord, покращення стилю та віправлення багів. ",
+    "date": "25.05.2026",
     "image": "",
     "url": "https://devalfastudios.github.io/G9-Launcher/",
     "category": "Лаунчер"
   },
   {
-    "title": "Minecraft 1.21.2 Офіційний реліс!",
-    "summary": "Minecraft 1.21.2 вийшов! Проніпать на паровозику нew вlaw нew блок лосга не...",
-    "date": "18.05.2026",
-    "image": "",
-    "url": "https://minecraft.net/",
-    "category": "Minecraft"
+    title: "Minecraft 26.1.2",
+    summary: "Minecraft 26.1.2 Вже доступний у G9 Launcher. Невеличке технічне оновлення яке вийшло 9 квітня 2026 року. ",
+    date: "18.05.2026",
+    category: "Minecraft",
+    url: "https://minecraft.net/"
   },
   {
-    "title": "Оновлення Community Pack #4",
-    "summary": "Новий Community Pack з покращеними шейдерами та текстурами для версій 1.20+",
-    "date": "10.05.2026",
-    "image": "",
-    "url": "https://devalfastudios.github.io/G9-Launcher/",
-    "category": "Паки"
+    title: "Нащо ти тут?",
+    summary: "Ти прочитав всі новини тепер ти у курсі всього!",
+    date: "?",
+    category: "Паки",
+    emoji: "📦",
+    url: "https://devalfastudios.github.io/G9-Launcher/"
   }
 ]
